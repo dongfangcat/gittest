@@ -8,6 +8,6 @@ public class hello {
         System.out.println("hello,fix-hot");
         System.out.println("master-test");
         System.out.println("hot-test");
-
+        System.out.println("pull-test");
     }
 }
